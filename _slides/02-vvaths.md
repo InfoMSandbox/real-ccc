@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Magic New Comment!
+Magic Awesome New Caption!!!
+
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
